@@ -4,7 +4,7 @@
 #include <stdlib.h>
 
 using namespace std;
-//                                                          Rock Paper Scissor Game
+//                       Rock Paper Scissor Game
 
 int main()
 {
